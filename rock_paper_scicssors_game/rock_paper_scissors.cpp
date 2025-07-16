@@ -1,3 +1,4 @@
+//rock paper scissors game
 #include <iostream>
 #include <cstdlib>
 #include <time.h>
